@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "exception-handling",
+      "title": "Exception Handling in Python",
+      "description": "Master error handling by learning to catch exceptions, create custom exceptions, and build robust, defensive code that handles real-world errors gracefully.",
+      "path": "assignments/exception-handling",
+      "dueDate": "2026-05-27",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
